@@ -1,0 +1,10 @@
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\bin\Debug\SampleDB.dacpac
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\bin\Debug\SampleDB.dll
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\bin\Debug\SampleDB.pdb
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\obj\Debug\SampleDB.sqlprojAssemblyReference.cache
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\obj\Debug\Model.xml
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\obj\Debug\refactor.xml
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\obj\Debug\postdeploy.sql
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\obj\Debug\predeploy.sql
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\obj\Debug\SampleDB.dll
+C:\Users\Tom\Desktop\MindBox\SampleDB\SampleDB\obj\Debug\SampleDB.pdb
